@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diwuyan
 <!-- 👀 I’m interested in -->
-- 🌱 I’m currently learning Java Spring and Computer Networking A Top-Down Approach
+- 🌱 I’m currently learning Java SSM and Computer Networking A Top-Down Approach
 <!-- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me... -->
 
